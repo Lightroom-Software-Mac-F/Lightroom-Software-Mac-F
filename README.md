@@ -1,0 +1,1 @@
+# Lightroom-Software-Mac-F
