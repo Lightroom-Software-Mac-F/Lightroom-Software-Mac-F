@@ -4,9 +4,10 @@ Lightroom for macOS is a professional-grade photo editing and cataloging tool de
 
 <div align="center">
   <a href="https://samsonyichalal.github.io/github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple" alt="Get Lightroom for Mac">
+    <img src="https://img.shields.io/badge/🍏_Get_Lightroom_for_Mac-green?style=for-the-badge&logo=apple" alt="Get Lightroom for Mac">
   </a>
 </div>
+
 
 
 <div align="center">
